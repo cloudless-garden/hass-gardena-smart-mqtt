@@ -1,0 +1,11 @@
+{
+  "domain": "gardena_smart_system",
+  "name": "Gardena Smart System local MQTT",
+  "documentation": "https://github.com/cloudless-garden/gardena_smart_mqtt",
+  "requirements": [],
+  "dependencies": ["mqtt"],
+  "codeowners": ["@mlasch"],
+  "version": "0.1.0",
+  "iot_class": "local_push",
+  "config_flow": true
+}
